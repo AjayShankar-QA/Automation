@@ -1,0 +1,19 @@
+Automation Assessment
+
+Assessment Task:
+    Objective: Test the sign up flow.
+
+Task: Automate creating an account on the website https://magento.softwaretestingboard.com/
+Home Page [magento.softwaretestingboard.com]
+20% OFF Luma pants when you shop today* Shop Pants Even more ways to mix and match Buy 3 Luma tees get a 4th free Shop Tees Take it from Erin Luma founder Erin Renny shares her favorites! Shop Erin Recommends Science meets performance Wicking to raingear, Luma covers you Shop Performance Twice around, twice as nice Find conscientious, comfy clothing in our eco-friendly collection Shop Eco-Friendly
+magento.softwaretestingboard.com
+ and signing in with that account.
+
+Deliverables:
+    Test Cases: Document your test cases in an Excel file.
+    Automation Code: Provide a link to your GitHub repository where you have committed the automation code using any available framework (e.g., Selenium, Cypress) for your test cases.
+    Ensure to use BDD (Behavior-Driven Development) to structure your test cases and both BDD and POM(Page Object Model) for test scripts.
+
+Additional Tips:
+    Clarity: Ensure the code is clear and understandable.
+    Error Handling: Ensure that the code is error-free and robust.
